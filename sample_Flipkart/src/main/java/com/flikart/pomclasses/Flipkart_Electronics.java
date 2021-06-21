@@ -14,6 +14,9 @@ public class Flipkart_Electronics {
 		PageFactory.initElements(driver, this);
 		
 	}
+//	public void Electronics() {
+//		Electronics_Click.click();
+//	}
 	public void Electronics() {
 		Electronics_Click.click();
 	}
