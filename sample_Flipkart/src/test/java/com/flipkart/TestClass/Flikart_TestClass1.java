@@ -49,7 +49,7 @@ public class Flikart_TestClass1 {
 	}
 	@BeforeMethod
 	public void login() {
-		System.out.println("hi);
+//		System.out.println("hi");
 		
 	}
 	String url;
